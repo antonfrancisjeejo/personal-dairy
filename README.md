@@ -15,6 +15,6 @@ or simply use
 
 $ npm install or npm i
 
-##Uses
+## Uses
 
 Clone it and change the content in it as it is just a template for personal diary using Express and ejs.
